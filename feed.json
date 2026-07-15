@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Coruja Notícias",
+    "description": "",
+    "home_page_url": "https://corujanoticias.github.io",
+    "feed_url": "https://corujanoticias.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Coruja Notícias"
+    },
+    "items": [
+        {
+            "id": "https://corujanoticias.github.io/teste.html",
+            "url": "https://corujanoticias.github.io/teste.html",
+            "title": "teste",
+            "author": {
+                "name": "Coruja Notícias"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-15T11:45:46-03:00",
+            "date_modified": "2026-07-15T11:45:46-03:00"
+        }
+    ]
+}
